@@ -19,9 +19,9 @@ I took a fully functioning Google Books API search engine built with a RESTful A
 
 Below is a screenshot of and link to deployed site
 
-Herkou Link Placeholder
+https://git.heroku.com/warfa-booksearchengine.git
 
-![screenshot-of-book-search-engine](./assets/)
+![screenshot-of-book-search-engine](./assets/Screenshot.PNG)
 
 ## Installation
 
